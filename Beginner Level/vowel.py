@@ -1,7 +1,7 @@
-print("Enter the alphabet")
-if l in ('a', 'e', 'i', 'o', 'u'):
-  print("entered value is a vowel")
-elif l == 'y':
-  print("Sometimes letter y stand for vowel, sometimes stand for consonant.")
+print("enter the alphabet")
+j=input()
+print(j)
+if j in ["a" or "e" or "i" or "o" or "u"]:
+    print("Entered Alphabet is Vowel")
 else:
-  print("entered value  is a consonant")
+    print("Entered Alphabet is Consonant")
