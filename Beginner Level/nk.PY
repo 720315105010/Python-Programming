@@ -1,5 +1,5 @@
-n=int(input("Enter the n value"))
-k=int(input("Enter the k value"))
+n=int(input("Enter  n value"))
+k=int(input("Enter  k value"))
 sum=0
 print("Enter the numbers:")
 for i in range(n):
