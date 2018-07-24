@@ -9,7 +9,7 @@ elif a=="IV":
  print("4")
 elif a=="V":
  print("5")
-elif a=="VI":
+elif a=="VI": 
  print("6")
 elif a=="VII":
  print("7")
